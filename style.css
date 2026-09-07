@@ -1,0 +1,57 @@
+body {
+    background-color: #111111;
+    font-family: "Nunito Sans", sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+.head {
+    text-align: center;
+    color: rgb(50, 187, 118);
+    font-weight: 900;
+    font-style: normal;
+    font-size: 3rem;
+}
+
+.abbba {
+    border-radius: 15px;
+    border: 2px solid rgb(26, 27, 26);
+}
+
+.content {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+    object-fit: cover;
+    text-decoration: none;
+    font-family: 'outfit', sans-serif, ;
+    justify-content: center;
+    /* align-items: center; */
+    padding: 2rem;
+}
+
+
+.btn {
+    background-color: rgb(50, 187, 118);
+
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: 0px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.btn a {
+    text-decoration: none;
+    color: rgb(20, 61, 41);
+    font-weight: 900;
+    text-transform: uppercase;
+}
+
+.yaya p {
+    color: #111111;
+}
+
+.btn:hover {
+    color: silver;
+}
